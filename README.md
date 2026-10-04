@@ -1,0 +1,2 @@
+# premium-drop-forge-001-drop-forge-die-impact-shape
+Tired of losing track of your custom die specs or mixing up impact shapes for your steel forging projects? The Drop Forge Die &amp; Impact Shape Steel Craft Hub is your central command for every drop forge detail.  This Notion template solves the chaos of scattered notes and forgotten measurements by consolidating your die library, impact shape catalog
